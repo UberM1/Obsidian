@@ -1,0 +1,1 @@
+El conocido como lago gris se encuentra en la entrada del black forest, desde las llanuras pobladas es la unica forma de ingresar al mismo que no sea por agua, 

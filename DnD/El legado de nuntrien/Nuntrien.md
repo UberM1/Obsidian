@@ -1,0 +1,4 @@
+Nuntrien fué un mago que vivió hace aproximadamente 10000 años atrás, estudiaba en la antes conocida como Prillion, que ahora es la ciudad de los magos(nombre a definir). 
+
+## Infancia, Adolescencia y Adultez temprana:
+La infancia de Nuntrien fue normal, con la única distinción de que esa un niño apacionado con la magia, en su adultez temprana(23) descubre mediante observaciones que en el planeta vecino [[Kahelos]] utilizan magia para terraformar terrenos y así poder construir ciudades con mayor facilidad. Este suceso determino a Nuntrien a estudiar la magia. Para ello comenzó a estudiar a los seres mágicos de Khaelos, principalmente los elfos. Esto dio lugar a que Nuntrien descubra que si bien había magia en Centos, no era lo suficientemente potente para que los humanos, mientras el este vivo, pudieran aprender a sentirla y utilizarla en el corto plazo.

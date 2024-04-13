@@ -1,0 +1,241 @@
+{
+  "addToDefaultIfMissing": true,
+  "calendars": [
+    {
+      "name": "Centos",
+      "description": "",
+      "id": "ID_cbfaba0bdbda",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Ikan",
+            "id": "ID_993b283a794b"
+          },
+          {
+            "type": "day",
+            "name": "Kymir",
+            "id": "ID_0b38fa1a29e9"
+          },
+          {
+            "type": "day",
+            "name": "Man'ikar",
+            "id": "ID_19287a98785a"
+          },
+          {
+            "type": "day",
+            "name": "Chuenix",
+            "id": "ID_ab0bda5be969"
+          },
+          {
+            "type": "day",
+            "name": "Ebon",
+            "id": "ID_7bd829a8b998"
+          },
+          {
+            "type": "day",
+            "name": "Ben'al",
+            "id": "ID_49eb98bbf8ea"
+          },
+          {
+            "type": "day",
+            "name": "K'iban",
+            "id": "ID_0a899bc8d9bb"
+          },
+          {
+            "type": "day",
+            "name": "Kabarn",
+            "id": "ID_da98fb7bb8d9"
+          },
+          {
+            "type": "day",
+            "name": "Etznabir",
+            "id": "ID_dbe8c909a94b"
+          },
+          {
+            "type": "day",
+            "name": "Kawakar",
+            "id": "ID_58e889fb98cb"
+          },
+          {
+            "type": "day",
+            "name": "Ajawn",
+            "id": "ID_f849d8b95859"
+          }
+        ],
+        "months": [
+          {
+            "type": "month",
+            "name": "1",
+            "length": 20,
+            "id": "ID_e8e8392b1839",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "2",
+            "length": 20,
+            "id": "ID_a9da89da9aa8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "3",
+            "length": 20,
+            "id": "ID_7b49294a2a88",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "4",
+            "length": 20,
+            "id": "ID_baaa593a5bfb",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "5",
+            "length": 20,
+            "id": "ID_4beb2ab9ea79",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "6",
+            "length": 20,
+            "id": "ID_eb4988c8ea68",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "7",
+            "length": 20,
+            "id": "ID_e94a28c97919",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "8",
+            "length": 20,
+            "id": "ID_4869aa89f8da",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "9",
+            "length": 20,
+            "id": "ID_2a28488ac8b9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "10",
+            "length": 20,
+            "id": "ID_3b5b8ba99a7a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "11",
+            "length": 20,
+            "id": "ID_f989b99ac999",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "12",
+            "length": 20,
+            "id": "ID_1b0a5b191a78",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "13",
+            "length": 20,
+            "id": "ID_7aea2a49c9fb",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "14",
+            "length": 20,
+            "id": "ID_296878bb39db",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [
+          {
+            "name": "Kaelos",
+            "cycle": 1,
+            "offset": 3,
+            "faceColor": "#8e7b7b",
+            "shadowColor": "#000",
+            "id": "ID_386bf98b1bdb"
+          }
+        ],
+        "displayMoons": true,
+        "displayDayNumber": false,
+        "leapDays": [],
+        "eras": [],
+        "padMonths": 2,
+        "padDays": 2
+      },
+      "current": {
+        "day": 7,
+        "month": 6,
+        "year": 30
+      },
+      "events": [],
+      "categories": [],
+      "autoParse": false,
+      "path": [
+        "/"
+      ],
+      "supportInlineEvents": false,
+      "inlineEventTag": "#inline-events"
+    }
+  ],
+  "configDirectory": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_cbfaba0bdbda",
+  "eventPreview": false,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false,
+    "savingEvent": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "version": {
+    "major": 1,
+    "minor": 2,
+    "patch": 0,
+    "beta": null
+  },
+  "debug": false,
+  "askedToMoveFC": false,
+  "askedAboutSync": false,
+  "syncBehavior": "Ask",
+  "inlineEventsTag": null,
+  "paths": []
+}

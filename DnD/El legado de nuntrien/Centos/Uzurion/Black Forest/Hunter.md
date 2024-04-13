@@ -1,0 +1,1 @@
+El cazador vive en la zona norte del bosque, se encarga de coleccionar y disecar distintos animales. Lo conocido de el hasta el momento es que asesino a un ciltista de un solo disparo a travez del ojo. **No es recomedable asercarse a su zona**
