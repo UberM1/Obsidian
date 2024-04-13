@@ -1,0 +1,2 @@
+# Filtrado de puertos:
+Al momento de configurar el filtrado de un puerto hay dos configuraciones posibles `DROP` y `REJECT`, en caso de que se haga un `REJECT` se notificara al remitente de que el puerto se encuentra cerrado, un `DROP` por el contrario no lo hace

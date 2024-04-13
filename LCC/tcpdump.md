@@ -1,0 +1,1 @@
+`sudo tcpdump -i <interfaca> host <host> and <host2>`
