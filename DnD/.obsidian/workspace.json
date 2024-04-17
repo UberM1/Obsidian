@@ -13,25 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How To/Monster Hunts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "bc8e27fc79a20215",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d0e157d34dc12296",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Hunt Template.md",
+                "file": "El legado de nuntrien/Introduccion.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Hunt Template.md",
+                "file": "El legado de nuntrien/Introduccion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Hunt Template.md",
+                "file": "El legado de nuntrien/Introduccion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Hunt Template.md"
+                "file": "El legado de nuntrien/Introduccion.md"
               }
             }
           },
@@ -197,15 +179,20 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "d0e157d34dc12296",
+  "active": "50f230b48ccd1bc5",
   "lastOpenFiles": [
+    "El legado de nuntrien/El legado de nuntrien.md",
+    "Images/city maps/ac-02.png",
     "How To/Monster Hunts.md",
+    "Images/city maps/basxera-wound-of-the-desert-city-map.webp",
+    "Images/city maps/dwarf-mining-city.webp",
+    "Images/city maps/Nuncity.webp",
+    "Images/Structures/mage_store.jpg",
     "Templates/Hunt Template.md",
     "Ideas/The pocket space.md",
     "Templates",
     "Untitled.md",
     "How To",
-    "El legado de nuntrien/El legado de nuntrien.md",
     "Ideas/The 4 magic weapons.md",
     "Ideas/Heroes.md",
     "Ideas/Culto Neirtnun.md",
@@ -231,15 +218,10 @@
     "El legado de nuntrien/Centos/Uzurion/Black Forest/Black Forest.md",
     "El legado de nuntrien/Centos/Uzurion/Maldiciones/Maldiciones.md",
     "Ideas",
-    "Images/city maps/dwarf-mining-city.webp",
     "El legado de nuntrien/Centos/Uzurion/AC-02/Market/Market.md",
     "El legado de nuntrien/Centos/Uzurion/AC-02/Market/Mage Store/Mage Store.md",
     "El legado de nuntrien/Centos/Uzurion/Black Forest/Gray Lake.md",
     "El legado de nuntrien/Centos/Uzurion/Black Forest/Hunter.md",
-    "Images/city maps/Nuncity.webp",
-    "Images/city maps/basxera-wound-of-the-desert-city-map.webp",
-    "Images/Structures/mage_store.jpg",
-    "Images/Structures/world map.jpg",
-    "Kitros.md"
+    "Images/Structures/world map.jpg"
   ]
 }

@@ -12,3 +12,5 @@ Solo los heroes tienen conocimiento de lo que esa noche sucedio, victoriosos y m
 
 Sin embargo las consecuencias de lo ocurrido esa noche no acabaron alli, no solo se observo una dismunucion considerable en la magia sino tambien se observo que los que malipularon altas cantidades de magia cuando esta estaba en su apice podian llegar a transformarse en aberraciones, seres deformes y asquerosos repudiados por la sociedad, pues junto con su forma humanoide tambien perdian la cordura. Tambien la abrupta disminucion de magia sobre Centos hizo que el planeta poco a poco se detenga, provocando que una cara del mismo nunca sea alcanzado por los rayos de luz provenientes estrella del sistema. Aprovechando la situacion los heroes volvieron, y desplazaron a la mayor parte de las aberraciones al lado oscuro de Centos, dando lugar asi, al centos que hoy conocemos.
 
+%% TODO agregarciudades zona oscura y funcionamiento actual.
+
