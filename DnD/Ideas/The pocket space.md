@@ -3,8 +3,12 @@ El poket space es un item que les quiero dar a los players para que tengan una b
 La idea principal del item será que permite mediante un ritual abrir un portal a esta isla. La idea es que sea una casa/torre antigua de nuntrien que se mantenga gracias a los conjuros que hay sobre ella. 
 
 ### Como se va a otorgar el item:
-El item actialmente está en posecion de los integrantes del [[Culto Neirtnun]]. Los players consiguen el item si siguen al ultimo vivo hasta la base y se infiltran ahi.
-En la base(lugar a definir), lo tienen en medio de un circulo de una habitacion vacia y con mucho espacio.
+El item tiene tres partes, dos las tenian los bandidos en el [[Bandit Camp]], lo habian obtenido hace tiempo y querian traerlo a la zona, pues en teoría necesitan una gema común de las minas en Urizon. 
+
+La ultima parte la tiene el spawn de [[Teztrian]].
+
+# Como funciona:
+Es un prototipo antiguo de portal, esta formado por tres partes, una hueca de oro que hay que inbuir con magia natural, otra de plata que hay que imbuir con magia oscura y el ultimo que hay que llenarlo con 
 
 ---
 # Cosas a definir:

@@ -13,7 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "El legado de nuntrien/Nuntrien.md",
+                "file": "How To/Monster Hunts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "bc8e27fc79a20215",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0e157d34dc12296",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Hunt Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,6 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Templates/Hunt Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Templates/Hunt Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +156,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Templates/Hunt Template.md"
+              }
             }
           },
           {
@@ -175,19 +197,30 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "10346767adee2c82",
+  "active": "d0e157d34dc12296",
   "lastOpenFiles": [
-    "El legado de nuntrien/Nuntrien.md",
-    "El legado de nuntrien/Centos/Centos.md",
-    "El legado de nuntrien/Centos/Uzurion/Uzurion.md",
-    "Ideas/Culto Neirtnun.md",
-    "Ideas/Heroes.md",
-    "Ideas/The 4 magic weapons.md",
-    "El legado de nuntrien/Introduccion.md",
+    "How To/Monster Hunts.md",
+    "Templates/Hunt Template.md",
     "Ideas/The pocket space.md",
+    "Templates",
+    "Untitled.md",
+    "How To",
+    "El legado de nuntrien/El legado de nuntrien.md",
+    "Ideas/The 4 magic weapons.md",
+    "Ideas/Heroes.md",
+    "Ideas/Culto Neirtnun.md",
+    "El legado de nuntrien/Centos/Uzurion/Maldiciones/Vampirism.md",
+    "El legado de nuntrien/Centos/Uzurion/AC-02/Jack'O Tabern/Leia.md",
+    "El legado de nuntrien/Centos/Uzurion/Maldiciones/Tainting.md",
+    "El legado de nuntrien/Centos/Uzurion/AC-02/Jack'O Tabern/Teztrian.md",
+    "El legado de nuntrien/Centos/Uzurion/AC-02/Jack'O Tabern/Jack'O Tabern.md",
+    "El legado de nuntrien/Centos/Uzurion/AC-02/AC-02.md",
+    "El legado de nuntrien/Centos/Uzurion/Uzurion.md",
+    "El legado de nuntrien/Centos/Centos.md",
+    "El legado de nuntrien/Nuntrien.md",
+    "El legado de nuntrien/Introduccion.md",
     "Images/world map.jpg",
     "El legado de nuntrien/Centos",
-    "El legado de nuntrien/El legado de nuntrien.md",
     "PDFS/DaggerHearth/GM Materials/DH v1-2 Play Guide.pdf",
     "PDFS/DaggerHearth/GM Materials/DH v1-2 Character Creation.pdf",
     "PDFS/DaggerHearth/GM Materials/_GMs_START_HERE.pdf",
@@ -198,26 +231,15 @@
     "El legado de nuntrien/Centos/Uzurion/Black Forest/Black Forest.md",
     "El legado de nuntrien/Centos/Uzurion/Maldiciones/Maldiciones.md",
     "Ideas",
-    "PDFS/Mordenkainen Presents Monsters of the Multiverse.pdf",
     "Images/city maps/dwarf-mining-city.webp",
     "El legado de nuntrien/Centos/Uzurion/AC-02/Market/Market.md",
-    "El legado de nuntrien/Centos/Uzurion/AC-02/Jack'O Tabern/Jack'O Tabern.md",
     "El legado de nuntrien/Centos/Uzurion/AC-02/Market/Mage Store/Mage Store.md",
     "El legado de nuntrien/Centos/Uzurion/Black Forest/Gray Lake.md",
-    "El legado de nuntrien/Centos/Uzurion/Maldiciones/Tainting.md",
-    "El legado de nuntrien/Centos/Uzurion/AC-02/AC-02.md",
-    "PDFS/Grim Hollow Campaign Guide.pdf",
     "El legado de nuntrien/Centos/Uzurion/Black Forest/Hunter.md",
     "Images/city maps/Nuncity.webp",
     "Images/city maps/basxera-wound-of-the-desert-city-map.webp",
     "Images/Structures/mage_store.jpg",
-    "El legado de nuntrien/Centos/Uzurion/AC-02/Jack'O Tabern/Leia.md",
-    "El legado de nuntrien/Centos/Uzurion/AC-02/Jack'O Tabern/Teztrian.md",
-    "El legado de nuntrien/Centos/Uzurion/Maldiciones/Vampirism.md",
     "Images/Structures/world map.jpg",
-    "Kitros.md",
-    "El legado de nuntrien/Uzurion/AC-02/Jack'O Tabern/Untitled.md",
-    "Urizon--AC-02--Jack'o_Tabern--Teztian_6.html.md",
-    "Welcome.md"
+    "Kitros.md"
   ]
 }
