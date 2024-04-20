@@ -16,5 +16,3 @@ El reward de solucionar problemas de este estilo es un 2x1 porque conseguis lo q
 - El que lo reporta puede tener miedo, puede que no todos los datos estén bien.
 - Describir el problema, no 'hay un monstruo mátenlo por favor'
 - Es una caza, tienen que ir preparados para que sea algo sencillo, sino la pueden ripear, el monstruo es venenoso? 
-
-![[ac-02.png]]
