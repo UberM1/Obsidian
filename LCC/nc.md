@@ -1,1 +1,0 @@
-`nc -nv <IP> <PORT>`

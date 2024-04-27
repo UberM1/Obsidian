@@ -16,12 +16,12 @@
             }
           },
           {
-            "id": "10346767adee2c82",
+            "id": "41400c3feb1a09d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sesion 3 - 19_4_24.md",
+                "file": "Sesion 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,24 +29,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "2fef665e278dd484",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0448ca2cd4ed1a8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "El legado de nuntrien/Centos/Uzurion/Black Forest/Bandit Camp.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 382.5,
+    "collapsed": true
   },
   "right": {
     "id": "3c79933e7379d030",
@@ -113,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sesion 3 - 19_4_24.md",
+                "file": "Sesion 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sesion 3 - 19_4_24.md",
+                "file": "Sesion 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sesion 3 - 19_4_24.md"
+                "file": "Sesion 4.md"
               }
             }
           },
@@ -207,12 +190,13 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "10346767adee2c82",
+  "active": "41400c3feb1a09d9",
   "lastOpenFiles": [
+    "Sesion 3 - 19_4_24.md",
+    "Sesion 4.md",
     "El legado de nuntrien/Centos/Uzurion/Black Forest/Bandit Camp.md",
     "El legado de nuntrien/Centos/Uzurion/AC-02/Jack'O Tabern/Teztrian.md",
     "Images/city maps/ac-02.png",
-    "Sesion 3 - 19_4_24.md",
     "PDFS/(Ghostfire Gaming) Grim Hollow The Monster Grimoire.pdf",
     "Untitled.md",
     "El legado de nuntrien/Centos/Uzurion/AC-02/Jack'O Tabern/Jack'O Tabern.md",

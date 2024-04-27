@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "aea72011be2f4aca",
+        "id": "ce7d6431dc4588ff",
         "type": "tabs",
         "children": [
           {
-            "id": "6bf0e418a5405c9b",
+            "id": "32570a879d1b2059",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "El legado de nuntrien/El legado de nuntrien.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -69,7 +73,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "bd31d90109340893",
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "El legado de nuntrien/El legado de nuntrien.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "El legado de nuntrien/El legado de nuntrien.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "El legado de nuntrien/El legado de nuntrien.md"
+          }
         }
       },
       {
@@ -122,7 +130,8 @@
         "id": "a1e69a9cafbfca4f",
         "type": "leaf",
         "state": {
-          "type": "CALENDARIUM"
+          "type": "CALENDARIUM",
+          "state": {}
         }
       },
       {
@@ -145,11 +154,10 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
-      "calendarium:Open Calendarium": false
+      "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "6bf0e418a5405c9b",
+  "active": "32570a879d1b2059",
   "lastOpenFiles": [
     "El legado de nuntrien/El legado de nuntrien.md",
     "El legado de nuntrien/Uzurion/Maldiciones/Tainting.md",

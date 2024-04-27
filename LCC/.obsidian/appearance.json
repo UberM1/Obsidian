@@ -1,5 +1,6 @@
 {
   "accentColor": "",
-  "cssTheme": "Typewriter",
-  "textFontFamily": "FiraMono Nerd Font"
+  "cssTheme": "Wasp",
+  "textFontFamily": "FiraMono Nerd Font",
+  "theme": "system"
 }

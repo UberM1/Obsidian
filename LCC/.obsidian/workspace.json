@@ -4,27 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "94967c2b856c0b22",
+        "id": "6f6bd667b9f2a8d5",
         "type": "tabs",
         "children": [
           {
-            "id": "ecf62917b1a1adf7",
+            "id": "529f1de08ce29e06",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
-            }
-          },
-          {
-            "id": "3dad7d4b094851ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Estructuras II/Estructuras II.md",
-                "mode": "source",
-                "source": false
-              }
             }
           }
         ]
@@ -140,9 +128,17 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "aaf2c78f3533220c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -163,33 +159,42 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ecf62917b1a1adf7",
+  "active": "529f1de08ce29e06",
   "lastOpenFiles": [
-    "Hacking/Nmap.md",
+    "Redes/Http, Https.md",
+    "Passwords.md",
+    "HTB/Wfuzz.md",
+    "HTB/Dictionary Attacks.md",
+    "HTB/Brute Forcing.md",
+    "Untitled.md",
+    "Sistemas Operativos/Task.md",
+    "Sistemas Operativos/Señales.md",
+    "Redes/tcpdump.md",
+    "Rails.md",
+    "Excalidraw/EDyAII_E8_P1.excalidraw.md",
+    "Idea tesis.md",
+    "Excalidraw/EDyAII_E10P1.excalidraw.md",
+    "Sistemas Operativos/proceso.md",
+    "Fotos/Pasted image 20240414183031.png",
+    "HTB/Nmap.md",
+    "Excalidraw/EDyAII_E9P1.excalidraw.md",
+    "Sistemas Operativos/Planificacion.md",
+    "Estructuras II/Modelo de Costo.md",
     "Estructuras II/Estructuras II.md",
-    "2024-04-12.md",
-    "Hacking/Wfuzz.md",
-    "latex.md",
-    "Hacking/Enumeracion.md",
+    "2024-04-18.md",
+    "Excalidraw",
     "Redes/paquete.md",
-    "nc.md",
-    "Redes/IDS.md",
-    "tcpdump.md",
-    "Redes/firewall.md",
+    "Sistemas Operativos/Hilos.md",
+    "Sistemas Operativos/Procesadores.md",
+    "Sistemas Operativos/Sistemas Batch.md",
+    "Sistemas Operativos/Sistemas Operativos.md",
+    "Redes/IDS-IPS.md",
+    "Fotos/Pasted image 20240414182323.png",
+    "Sistemas Operativos",
     "Redes",
-    "Paquete.md",
-    "Cloudskill.md",
-    "Hacking",
+    "HTB",
     "Fotos",
     "Fotos/wfuzz.svg",
-    "Pacman.md",
-    "LaTex.md",
-    "LaTex.md",
-    "Estructuras II/Heaps.md",
-    "Tools.md",
-    "yay.md",
-    "LaTeX.md",
-    "Estructuras II/Arboles.md",
     "Estructuras II"
   ]
 }

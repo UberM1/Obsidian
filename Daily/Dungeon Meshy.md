@@ -1,0 +1,1 @@
+la verdad bastante bien me da la sensacion de que con un poco de laburo se re puede adaptar para poder hacer algo similar en el dnd si los chicos se copan, es algo bastante similar a lo que tenia pensado hacer con las cazerias.

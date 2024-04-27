@@ -1,1 +1,0 @@
-Siglas de **I**ntrusion **D**etection **S**ystem
