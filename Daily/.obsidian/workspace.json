@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dungeon Meshy.md",
+                "file": "2024-04-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dungeon Meshy.md",
+                "file": "2024-04-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dungeon Meshy.md",
+                "file": "2024-04-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dungeon Meshy.md"
+                "file": "2024-04-29.md"
               }
             }
           }
@@ -163,6 +163,7 @@
   "active": "c92bab1db1d1f32e",
   "lastOpenFiles": [
     "Dungeon Meshy.md",
+    "2024-04-29.md",
     "2024-04-26.md",
     "Welcome.md"
   ]

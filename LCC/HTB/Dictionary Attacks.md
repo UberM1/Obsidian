@@ -12,3 +12,6 @@ La ventaja es que los diccionarios se construyen a partir de contraseñas comune
 | Offline Brute Force Attack | Also known as Offline Password Cracking, where you attempt to crack a hash of an encrypted password.                        |
 | Reverse Brute Force Attack | Also known as username brute-forcing, where you try a single common password with a list of usernames on a certain service. |
 | Hybrid Brute Force Attack  | Attacking a user by creating a customized password wordlist, built using known intelligence about the user or the service.  |
+# Login Brute Forcing
+La idea en la gran parte de los ataques de diccionario es intentar saber un user que exista e iterar passwords desde ahi, sino se van a tener que iterar sobre todas las combinaciones y esto es muy costoso.
+Usar passwords default implica probar sobre pares de usuario y contraseña que comúnmente van de la mano, por lo general en ataques de este tipo conviene comenzar con estos. Una herramienta comun para esto es [[hydra]].

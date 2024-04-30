@@ -19,7 +19,7 @@ Como no se puede revertir el hash de una contraseña lo que se hace es hashear p
 ### Tipos de Ataques
 Como de [[Dictionary Attacks]], [[Brute Forcing]], Intercepcion de Trafico, Man in the Middle, Key Logging, Social Engieneering.
 ### Login Brute Forcing
-A veces si no se tiene acceso al hash es mas facil hacer bruteforce en el formulario del login, se pueden usar herramientas como `Ncrack`, `wfuzz`, `medusa`, `patator`, `hydra`, etc.
+A veces si no se tiene acceso al hash es mas facil hacer bruteforce en el formulario del login, se pueden usar herramientas como `Ncrack`, `wfuzz`, `medusa`, `patator`, [[hydra]], etc.
 
 
 
