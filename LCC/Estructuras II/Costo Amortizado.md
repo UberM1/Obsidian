@@ -1,1 +1,1 @@
-- ver Purely functional Data structures Okasaki
+- ver [[okasaki.pdf |Puerly functional data structures]]
