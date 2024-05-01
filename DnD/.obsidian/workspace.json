@@ -11,8 +11,10 @@
             "id": "1790c0501fb7ce81",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "Images/world_map_empty.jpeg"
+              }
             }
           }
         ]
@@ -66,8 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5,
-    "collapsed": true
+    "width": 382.5
   },
   "right": {
     "id": "3c79933e7379d030",
@@ -83,6 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Images/world_map_empty.jpeg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Images/world_map_empty.jpeg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +123,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Images/world_map_empty.jpeg"
+              }
             }
           },
           {

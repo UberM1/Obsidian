@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:HTB  ",
@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 9334835
       }
+    },
+    {
+      "query": "path:\"Sistemas Operativos\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 547703
+      }
     }
   ],
   "collapse-display": false,
@@ -32,6 +39,6 @@
   "repelStrength": 14.6166975881262,
   "linkStrength": 0.583599257884972,
   "linkDistance": 262,
-  "scale": 0.6373945239129393,
-  "close": false
+  "scale": 0.3156337818326351,
+  "close": true
 }
