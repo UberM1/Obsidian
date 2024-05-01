@@ -8,9 +8,23 @@ tags:
 > Se estudian para evitar errores comunes de programación que resulten en perdida de información o de rendimiento. Esto ayuda a ajustar a nuestros programas al SO, para que al momento de ejecutarse puedan tener un mejor rendimiento.
 
 ## Funciones y Objetivos
-1. **Abstracción**: Se encarga de proporcionar abstracciones para que los programadores puedan enfocarse en resolver las necesidades particulares de sus usuarios.
-2. **Administración de recursos**: Al tener el control total sobre el hardware(recursos) debe gestionar e implementar políticas para asignarlos de forma efectiva y acorde a las necesidades establecidas para dicho sistema.
-3. **Aislamiento**: Idealmente debe brindar la experiencia, a cada usuario y proceso, de que el sistema esta exclusivamente dedicado a ellos. Para brindar esta protección se necesita hardware especializado. 
+1. **Abstracción**: Proporciona abstracciones para que los programadores puedan enfocarse en resolver las necesidades particulares de sus usuarios. Debe asegurar que los usuarios solo puedan comunicarse con el sistema mediante estas abstracciones. 
+2. **Administración de recursos**: Al tener el control total sobre el hardware(recursos) debe gestionar e implementar políticas para asignarlos de forma efectiva y acorde a las necesidades establecidas para dicho sistema. No debe permitir que el usuario acceda a recursos que no le corresponden.
+3. **Aislamiento**: Idealmente debe brindar la experiencia, a cada usuario y proceso, de que el sistema esta exclusivamente dedicado a ellos. Para brindar esta protección se necesita hardware especializado. Debe asegurar que ningún usuario penalice a otro por sus acciones.
+
+# Organización
+
+## Monolíticos
+Hay un solo proceso privilegiado, el sistema operativo y actúa en modo supervisor y todas las tareas que el SO realiza tienen este nivel de privilegio.
+![[Pasted image 20240501160734.png]]
+## Microkernel
+Se subdivide el SO para dejar en nivel privilegiado únicamente lo esencial, esto permite que en caso de haber una falla en alguno de los procesos del SO de privilegio menor pueda intentar recuperarse.
+![[Pasted image 20240501161120.png]]
+Este tipo de distribución tiene la ventaja de que al ser simple hay mayor velocidad en los mecanismos de comunicación, que deriva en mayor velocidad de ejecución. Esta modularización permite implementaciones mas elegantes y facilita el reemplazo de estas "piezas" que al fallar el kernel mismo puede encargarse de reiniciarlo o reemplazarlo.
+
+## Sistemas Híbridos
+Ni pa vo ni pa mi, permite mas libertad a la hora de implementarlo, las ventajas dependen mucho de la distribucion que se le de.
+![[Pasted image 20240501162236.png]]
 
 # Historia 
 

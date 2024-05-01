@@ -6,6 +6,7 @@
       {
         "id": "ff7b1df2102344e8",
         "type": "tabs",
+        "dimension": 51.170212765957444,
         "children": [
           {
             "id": "800212d36705e929",
@@ -13,17 +14,61 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas Operativos/Sistema Operativo.md",
+                "file": "Sistemas Operativos/Sistemas Operativos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be7c1ce7c607ff5a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Fotos/Pasted image 20240501162236.png"
+              }
+            }
+          },
+          {
+            "id": "8bc610584351ff3b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Fotos/Pasted image 20240501161120.png"
+              }
+            }
+          },
+          {
+            "id": "d19aece2b4427add",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Fotos/Pasted image 20240501160734.png"
+              }
+            }
+          },
+          {
+            "id": "ce73655d58c83215",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rails.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "748ef3610e6bc161",
         "type": "tabs",
+        "dimension": 48.829787234042556,
         "children": [
           {
             "id": "e5d5bac6034dfdfc",
@@ -85,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "07cd03c07b9eaf2f",
@@ -102,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas Operativos/Sistema Operativo.md",
+                "file": "Rails.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemas Operativos/Sistema Operativo.md",
+                "file": "Rails.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemas Operativos/Sistema Operativo.md"
+                "file": "Rails.md"
               }
             }
           },
@@ -184,13 +228,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "800212d36705e929",
+  "active": "ce73655d58c83215",
   "lastOpenFiles": [
-    "Sistemas Operativos/Libros/Fundamentos de los sistemas operativos.pdf",
+    "Fotos/Pasted image 20240430143132.png",
+    "Fotos/Pasted image 20240501160734.png",
+    "Fotos/Pasted image 20240501161120.png",
+    "Fotos/Pasted image 20240501162236.png",
+    "Sistemas Operativos/Sistemas Operativos.md",
     "Sistemas Operativos/Sistema Operativo.md",
+    "Sistemas Operativos/Libros/Fundamentos de los sistemas operativos.pdf",
     "Estructuras II/Costo Amortizado.md",
     "Passwords.md",
-    "Sistemas Operativos/Sistemas Operativos.md",
     "Tipos Abstractos de Datos.md",
     "Estructuras II/Estructuras II.md",
     "Estructuras II/Libros/okasaki.pdf",
@@ -199,7 +247,6 @@
     "Sistemas Operativos/NachOS.md",
     "Sistemas Operativos/Libros/Andrew S. Tanenbaum - Operating Systems. Design and Implementation.pdf",
     "Sistemas Operativos/Apuntes/virtualizacion.pdf",
-    "Pasted image 20240430143132.png",
     "Sistemas Operativos/Señales.md",
     "2024-04-18.md",
     "Sistemas Operativos/Libros/OSTEP.txt",
