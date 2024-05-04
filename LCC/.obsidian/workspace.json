@@ -6,6 +6,7 @@
       {
         "id": "aa0f79747abf9736",
         "type": "tabs",
+        "dimension": 47.12765957446808,
         "children": [
           {
             "id": "e5d5bac6034dfdfc",
@@ -37,12 +38,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas Operativos/Planificación/Planificación a Corto Plazo.md",
+                "file": "Sistemas Operativos/Planificación/Planificación.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
+          {
+            "id": "18ba5235de80df91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemas Operativos/Planificación/Planificación a Corto Plazo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "6d36cb3954b2e851",
+        "type": "tabs",
+        "dimension": 52.87234042553192,
+        "children": [
           {
             "id": "ab3bd45c8142ff57",
             "type": "leaf",
@@ -53,8 +74,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "syscall",
+                "query": "cooperati",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "HTB/Hydra.md",
+                "file": "Sistemas Operativos/Planificación/Planificación a Corto Plazo.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -162,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTB/Hydra.md",
+                "file": "Sistemas Operativos/Planificación/Planificación a Corto Plazo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTB/Hydra.md",
+                "file": "Sistemas Operativos/Planificación/Planificación a Corto Plazo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTB/Hydra.md"
+                "file": "Sistemas Operativos/Planificación/Planificación a Corto Plazo.md"
               }
             }
           },
@@ -244,16 +264,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5bb54f420ae0983a",
+  "active": "18ba5235de80df91",
   "lastOpenFiles": [
-    "Sistemas Operativos/Planificación/Planificación a Corto Plazo.md",
     "Sistemas Operativos/Libros/Fundamentos de los sistemas operativos.pdf",
+    "Sistemas Operativos/Planificación/Planificación a Corto Plazo.md",
+    "Sistemas Operativos/Proceso.md",
+    "Untitled.md",
+    "Sistemas Operativos/Planificación/Planificación.md",
     "HTB/Hydra.md",
     "HTB/Brute Forcing.md",
     "Passwords.md",
     "Sistemas Operativos/Sistema Operativo.md",
-    "Sistemas Operativos/Proceso.md",
-    "Sistemas Operativos/Planificación/Planificación.md",
     "Sistemas Operativos/Programa.md",
     "Sistemas Operativos/Hilos.md",
     "procesador.md",
@@ -287,7 +308,6 @@
     "Sistemas Operativos/Libros",
     "Sistemas Operativos/Apuntes/spim_documentation.pdf",
     "Sistemas Operativos/Apuntes/senales.pdf",
-    "HTB/Dictionary Attacks.md",
     "Fotos/Pasted image 20240414183031.png",
     "Fotos/Pasted image 20240414182323.png",
     "Fotos/wfuzz.svg"
