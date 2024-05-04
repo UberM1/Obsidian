@@ -14,7 +14,7 @@ Se divide en bloques llamados paginas, el tamaño de estas paginas lo configura 
 
 ## Direcciones virtuales
 ### MMU(Memory Management Unit)
-Unidad independiente del procesador, transforma direcciones virtuales de los procesos en direcciones físicas de memoria. Aparece con la necesidad de tener mas de un [[proceso]] cargado en memoria, también tiene la capacidad de abstraer el espacio de almacenamiento para dar la sensación de que hay mas espacio disponible del real. El [[Sistema operativo]] es el que se encarga de configurar dicha unidad.[^1]
+Unidad independiente del procesador, transforma direcciones virtuales de los procesos en direcciones físicas de memoria. Aparece con la necesidad de tener mas de un [[Proceso]] cargado en memoria, también tiene la capacidad de abstraer el espacio de almacenamiento para dar la sensación de que hay mas espacio disponible del real. El [[Sistema operativo]] es el que se encarga de configurar dicha unidad.[^1]
 
 [^1]: El sistema operativo es el encargado de asignar donde va a correr un proceso.
 #### Funcionamiento

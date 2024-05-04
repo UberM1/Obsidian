@@ -4,12 +4,15 @@
 - [[Hilos]]
 - **Libros**
 
+- [[Llamadas al sistema]]
 - [[Memoria]]
 - [[NachOS]]
 - [[NUMA]]
-- [[Planificacion]]
+- **[[Planificación]]**
+	- [[Planificación a Corto Plazo]]
 - [[Procesadores]]
-- [[proceso]]
+- [[Proceso]]
+- [[Programa]]
 - [[Señales]]
 - [[Sistema Operativo]]
 - [[Task]]

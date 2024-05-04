@@ -4,74 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "ff7b1df2102344e8",
+        "id": "aa0f79747abf9736",
         "type": "tabs",
-        "dimension": 51.170212765957444,
-        "children": [
-          {
-            "id": "800212d36705e929",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistemas Operativos/Sistemas Operativos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be7c1ce7c607ff5a",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Fotos/Pasted image 20240501162236.png"
-              }
-            }
-          },
-          {
-            "id": "8bc610584351ff3b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Fotos/Pasted image 20240501161120.png"
-              }
-            }
-          },
-          {
-            "id": "d19aece2b4427add",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Fotos/Pasted image 20240501160734.png"
-              }
-            }
-          },
-          {
-            "id": "ce73655d58c83215",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rails.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "748ef3610e6bc161",
-        "type": "tabs",
-        "dimension": 48.829787234042556,
         "children": [
           {
             "id": "e5d5bac6034dfdfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemas Operativos/Hilos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5bb54f420ae0983a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTB/Hydra.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a53e8ea3d35f1ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemas Operativos/Planificación/Planificación a Corto Plazo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab3bd45c8142ff57",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -80,7 +53,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "syscall",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,11 +100,53 @@
               "state": {}
             }
           }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "0e7524ded4d579dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9ebb2500332dce0",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "HTB/Hydra.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5784646179408367,
+                  "close": true
+                }
+              }
+            }
+          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 287.5
   },
   "right": {
     "id": "07cd03c07b9eaf2f",
@@ -146,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rails.md",
+                "file": "HTB/Hydra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rails.md",
+                "file": "HTB/Hydra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rails.md"
+                "file": "HTB/Hydra.md"
               }
             }
           },
@@ -228,22 +244,40 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ce73655d58c83215",
+  "active": "5bb54f420ae0983a",
   "lastOpenFiles": [
-    "Fotos/Pasted image 20240430143132.png",
-    "Fotos/Pasted image 20240501160734.png",
-    "Fotos/Pasted image 20240501161120.png",
-    "Fotos/Pasted image 20240501162236.png",
-    "Sistemas Operativos/Sistemas Operativos.md",
-    "Sistemas Operativos/Sistema Operativo.md",
+    "Sistemas Operativos/Planificación/Planificación a Corto Plazo.md",
     "Sistemas Operativos/Libros/Fundamentos de los sistemas operativos.pdf",
-    "Estructuras II/Costo Amortizado.md",
+    "HTB/Hydra.md",
+    "HTB/Brute Forcing.md",
     "Passwords.md",
-    "Tipos Abstractos de Datos.md",
+    "Sistemas Operativos/Sistema Operativo.md",
+    "Sistemas Operativos/Proceso.md",
+    "Sistemas Operativos/Planificación/Planificación.md",
+    "Sistemas Operativos/Programa.md",
+    "Sistemas Operativos/Hilos.md",
+    "procesador.md",
+    "Sistemas Batch.md",
+    "Sistemas Operativos/Planificación",
+    "Concurrencia.md",
+    "Sistemas Operativos/Memoria.md",
+    "Pasted image 20240502173636.png",
+    "Pasted image 20240502173051.png",
+    "Pasted image 20240502172806.png",
+    "Sistemas Operativos/Task.md",
+    "[Fundamentos de los sistemas operativos.pdf.md",
+    "Sistemas Operativos/Llamadas al sistema.md",
+    "Sistemas Operativos/Sistemas Operativos.md",
+    "Fotos/Pasted image 20240501162236.png",
+    "Fotos/Pasted image 20240501161120.png",
+    "Fotos/Pasted image 20240501160734.png",
+    "Rails.md",
+    "Fotos/Pasted image 20240430143132.png",
+    "Estructuras II/Costo Amortizado.md",
+    "Estructuras II/Tipos Abstractos de Datos.md",
     "Estructuras II/Estructuras II.md",
     "Estructuras II/Libros/okasaki.pdf",
     "Estructuras II/Libros",
-    "Sistemas Operativos/Memoria.md",
     "Sistemas Operativos/NachOS.md",
     "Sistemas Operativos/Libros/Andrew S. Tanenbaum - Operating Systems. Design and Implementation.pdf",
     "Sistemas Operativos/Apuntes/virtualizacion.pdf",
@@ -253,23 +287,8 @@
     "Sistemas Operativos/Libros",
     "Sistemas Operativos/Apuntes/spim_documentation.pdf",
     "Sistemas Operativos/Apuntes/senales.pdf",
-    "Sistemas Operativos/Apuntes/MPI.pdf",
-    "HTB/hydra.md",
     "HTB/Dictionary Attacks.md",
-    "HTB/Brute Forcing.md",
-    "Hydra.md",
-    "Redes/Http, Https.md",
-    "HTB/Wfuzz.md",
-    "Sistemas Operativos/Task.md",
-    "Redes/tcpdump.md",
-    "Rails.md",
-    "Excalidraw/EDyAII_E8_P1.excalidraw.md",
-    "Idea tesis.md",
-    "Excalidraw/EDyAII_E10P1.excalidraw.md",
-    "Sistemas Operativos/proceso.md",
     "Fotos/Pasted image 20240414183031.png",
-    "HTB/Nmap.md",
-    "Excalidraw/EDyAII_E9P1.excalidraw.md",
     "Fotos/Pasted image 20240414182323.png",
     "Fotos/wfuzz.svg"
   ]

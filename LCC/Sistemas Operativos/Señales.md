@@ -1,4 +1,4 @@
-Son un mecanismo de comunicacion entre [[proceso]]s 
+Son un mecanismo de comunicacion entre [[Proceso]]s 
 
 un ^C, `segmentation fault` por ejemplo son señales, se podria decir que son eventos a los que todos los procesos reaccionan.
 

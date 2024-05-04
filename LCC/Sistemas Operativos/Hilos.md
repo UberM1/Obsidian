@@ -21,3 +21,19 @@ los hilos pthread tienen dos enfoques con respecto a la contención que deben te
 
 [^1]: Este modelo no aprovecha realmente el paralelismo y hace que todos los hilos se bloqueen cuando uno de ellos realiza una llamada bloqueante al sistema.
 [^2]: Este modelo tiene la ventaja de que cuando se esta ejecutando sobre un sistema que no soporta los los mapeos **uno a uno** puede derivar en un modelo degradado que funcione como un **muchos a muchos**.
+
+# Patrones de trabajo con hilos
+El trabajo con hilos se puede generalizar en tres grupos segun la estructura que estos adopten al momento de llevar adelante una tarea.
+
+## Jefe/Trabajador
+Es el mas comun en servidores web y para aplicaciones graficas. En este esquema el jefe dispara los hilos en base a un evento externo, los hilos realizan su operacion y normalmente notifican al jefe del resultado antes de finalizar su ejecucion.
+![[Pasted image 20240502172806.png]]
+## Equipo de trabajo 
+Se crean multiples hilos identicos que realizan las mismas tareas sobre diferentes conjuntos de datos, puede convinarse con el esquema de jefe/trabajador para dar al usuario resultados preliminares de la tarea general.
+![[Pasted image 20240502173051.png]]
+# Linea de ensamblado
+Este esquema se emplea cuando una tareea larga puede dividirse en bloques secuenciales, es una forma de modularizar un programa, sirve principalmente para que el [[Sistema Operativo|sistema operativo]] pueda identificar los patrones que sigue cada uno de los bloques y beneficiar de forma mas certera a cada uno de los bloques.[^3]
+
+![[Pasted image 20240502173636.png]]
+
+[^3]: Por supuesto que esto depende de como esten mapeados los hilos para el sistema operativo.

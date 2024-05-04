@@ -5,5 +5,6 @@
 - **Libros**
 
 - [[Modelo de Costo]]
+- [[Tipos Abstractos de Datos]]
 
 %% End Waypoint %%

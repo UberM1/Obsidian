@@ -26,6 +26,26 @@ Este tipo de distribución tiene la ventaja de que al ser simple hay mayor veloc
 Ni pa vo ni pa mi, permite mas libertad a la hora de implementarlo, las ventajas dependen mucho de la distribucion que se le de.
 ![[Pasted image 20240501162236.png]]
 
+# Medición del tiempo
+Los distintos Sistemas Operativos tienen distintas politicas de [[planificación]], para unificar los distintos sitemas y no utilizar fracciones de tiempo distintas en cada sistema se generalizan dos definiciones:
+
+## Tick
+Fracción de tiempo la cual se puede usar el cpu sin interrupción, sin tener en cuenta las señales o interrupciones causadas por dispositivos de entrada o salida. 
+> El tiempo correspondiente a un tick es determinado por una señal periódica emitida por el timer. La frecuencia de esta señal se establece al inicio del sistema.
+## Quantum
+Unidad de tiempo de ejecución que los procesos ocupan el procesador. Si esta duración se achica mucho entonces van a ocurrir muchos cambios de contexto y se perdería tiempo de computo. Si se usan quantums muy largos los procesos deberán esperar mucho para su ejecución.
+
+## Métricas
+- **Tiempo de respuesta ($T$)**: Tiempo total necesario para completar el trabajo pendiente de un proceso, incluye el tiempo inactivo, esperando y en ejecución.
+- **Tiempo en espera ($E = T - t$)**: Aka tiempo perdido, donde $t$ es el tiempo real de ejecución.
+- **Proporcion de penalización ($P = \frac{T}{t}$)**: Cuanta espera tuvo que pagar el proceso por su ejecución.
+- **Proporción de respuesta($R = \dfrac{1}{P}$)**:  Fracción del tiempo de res- puesta durante la cual p pudo ejecutarse.
+- **Tiempo de Kernel**: Tiempo que usa el SO para calcular las políticas de [[Planificación|planificación]], cambios de contexto, entre otros.
+- **Tiempo de sistema**: Tiempo que pasa un proceso en espacio núcleo atendiendo el pedido de un proceso (syscall). Se incluye dentro del tiempo de uso del CPU de un proceso y suele discriminarse del tiempo de usuario.
+- **Tiempo de usuario**: Tiempo que pasa un proceso ejecutando instrucciones propias.
+- **Tiempo de uso de procesador**: tiempo durante el cual el procesador ejecuta instrucciones de un proceso.
+- **Tiempo Idle**: Tiempo en el cual no hay ninguna tarea lista para ejecución.
+- **Utilizacion del CPU**: Porcentaje del tiempo en que el CPU está realizando trabajo útil.
 # Historia 
 
 ## Batch processing:
@@ -84,6 +104,8 @@ para mas info ver [[Fundamentos de los sistemas operativos.pdf#page=34&selection
 
 
 [^1]: https://youtu.be/YRLFNkGktZg?t=160
+
+
 
 
 

@@ -1,0 +1,1 @@
+Un programa es la entidad pasica de una lista de instrucciones, se podria decir que el [[Proceso|proceso]] es el programa en ejecución. 

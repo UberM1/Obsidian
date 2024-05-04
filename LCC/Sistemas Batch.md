@@ -1,0 +1,1 @@
+Son [[Sistema Operativo|sistemas]] que tienen un solo [[Proceso]] en memoria, un solo proceso ejecutándose. El planificador cada quantum y se busca que sea lo mas ágil posible pues sino generaría un impacto negativo.

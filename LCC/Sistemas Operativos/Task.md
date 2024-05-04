@@ -1,13 +1,13 @@
-Se le llama task a un [[proceso]] u un [[Hilos]] en ejecucion, las tasks pueden tener distintos estados:
+Se le llama task a un [[Proceso|proceso]] o un [[Hilos|hilo]] en ejecucion, las tasks pueden tener distintos estados:
 -  TASK_RUNNING
 -  TASK_INTERRUPTABLE
 -  TASK_STOPPED
 -  TASK_UNINTERRUMPABKE
-- EXIT_ZOMBIE
-- EXIT_DEAD
+-  EXIT_ZOMBIE
+-  EXIT_DEAD
 
-
-Se clasifican dos tipos de tareas, las normales y las de tiempo real, las de tiempo real tienen mayor prioridad.
+Se clasifican dos tipos de tareas, las normales y las de tiempo real, las de tiempo real tienen mayor prioridad.[^1]
+[^1]: Esta es la definicion de task dada por el profesor en clase, en contraposicion la definicion de task por el libro se puede encontrar en la pagina [[Fundamentos de los sistemas operativos.pdf#page=69&selection=31,0,39,52|69]]
 
 ## Prioridades(linux)
 Las prioridades van de 0 a 139
