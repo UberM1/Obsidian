@@ -121,4 +121,4 @@ En estos sistemas es muy importante tener algoritmos que necesiten poco tiempo d
 # [[Hilos#Planificación de Hilos|Planificación de Hilos]]
 
 # Multiprocesadores
-El planificador tiene la carga de cada uno de los procesadores, en caso de que un proceso tenga sobrecarga, puede reubicar estos procesos de procesador para que tome mas tareas y distribuir de mejor forma la carga 
+El planificador tiene la carga de cada uno de los procesadores, en caso de que un procesador tenga sobrecarga, puede reubicar procesos de dicho procesador para que tome mas tareas y distribuir de mejor forma la carga 

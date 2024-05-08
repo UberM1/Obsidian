@@ -7,4 +7,4 @@ Se decide que procesos van a ser los iniciados. Se puede llevar a cabo cada vari
 Se decide que procesos es conveniente bloquear en un determinado momento, ya sea por saturacion de un recurso o escasez, generalmente porque los procesos realizan solicitudes que no se pueden satisfacer momentanemente. Se encarga de administrar que procesos entran y salen del estado bloqueado.
 # [[Planificación a Corto Plazo]]
 
-
+# [[Planificación en tiempo real]]
