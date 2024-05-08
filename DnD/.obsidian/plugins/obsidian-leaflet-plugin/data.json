@@ -1,0 +1,153 @@
+{
+  "mapMarkers": [
+    {
+      "id": "AC-02-MAP",
+      "locked": false,
+      "lastAccessed": 1715197253570,
+      "markers": [
+        {
+          "id": "ID_884849db08a8",
+          "type": "default",
+          "loc": [
+            -0.5044556260108948,
+            1.9827575981616974
+          ],
+          "link": "Barracas de Agua",
+          "layer": "%5B%5Bac-02.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_09da19698959",
+          "type": "default",
+          "loc": [
+            -1.0685832500457764,
+            2.000335603952408
+          ],
+          "link": "Jack'O Tabern",
+          "layer": "%5B%5Bac-02.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_2babe87aba59",
+          "type": "default",
+          "loc": [
+            -1.336161494255066,
+            2.0918069183826447
+          ],
+          "layer": "%5B%5Bac-02.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Market",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f9180888499a",
+          "type": "default",
+          "loc": [
+            -1.1684163808822632,
+            1.4231974482536316
+          ],
+          "layer": "%5B%5Bac-02.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Pequeña Catedral",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "El legado de nuntrien/Centos/Uzurion/AC-02/AC-02.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": true,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": "false",
+    "defaultZoom": 5,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "500px",
+    "image": "[[ac-02.png]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[ac-02.png]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 10,
+    "minZoom": 1,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 1,
+    "zoomFeatures": false,
+    "id": "AC-02-MAP",
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}

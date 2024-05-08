@@ -8,7 +8,7 @@ mientras se encuentran inmersos en las conversaciones y el ambiente de la tabern
 
 Mientras cruza la entrada y el niño se acerca de a poco al comienzo de las mesas, se empiezan a escuchar susurros como: `Es el hijo del bardo`, `ese no es el hijo de Lispe??`, ven como el niño se sobresalta ante cada minimo movimiento que cualquiera da para acercarse, cuando sale Leia de la cocina y se acerca a el corriendo.....
 
-> "Hay Poncio que te paso" grita Leia mientras se acerca al niño, el ninio se queda petrificado y cuando recibe el abrazo de leia, "mis padres...." y el niño rompe en llanto 
+> "Hay Luke que te paso" grita Leia mientras se acerca al niño, el ninio se queda petrificado y cuando recibe el abrazo de leia, "mis padres...." y el niño rompe en llanto 
 
 Sino pueden encontrar a unas monjas tratando de quitarle el demonio en la capilla de la ciudad.
 
@@ -18,4 +18,7 @@ A los 2 dias se sube el post teztrien
 
 Esa noche muere uno mas sobrevive otro niño
 
-# Comienzo de la Cacería
+# Cacería de los Oblivion Stalkers
+## Setup
+Un niño pierde a sus padres, los oblivion stalkers no atacan niños.
+Se sabe que merodean la ciudad, 

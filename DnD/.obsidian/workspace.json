@@ -4,16 +4,73 @@
     "type": "split",
     "children": [
       {
-        "id": "c68fa70bd4afd522",
+        "id": "9643d3860a277870",
         "type": "tabs",
         "children": [
           {
-            "id": "1790c0501fb7ce81",
+            "id": "e389f29a86eb1332",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/world_map_empty.jpeg"
+                "file": "Monsters/Oblivion Leaper.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "97dce8119dbe6567",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "El legado de nuntrien/Centos/Uzurion/AC-02/AC-02.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "286fd6c0a7590c94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "El legado de nuntrien/Centos/Uzurion/AC-02/Jack'O Tabern/Teztrian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d3cdd6ed411054b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "El legado de nuntrien/Centos/Uzurion/AC-02/Market/Market.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "9de8f3982848e5c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7c61ea90097e925",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Hunt Template.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -46,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nai",
+                "query": "barra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +125,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 335.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "3c79933e7379d030",
@@ -84,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/world_map_empty.jpeg",
+                "file": "El legado de nuntrien/Centos/Uzurion/AC-02/AC-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/world_map_empty.jpeg",
+                "file": "El legado de nuntrien/Centos/Uzurion/AC-02/AC-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/world_map_empty.jpeg"
+                "file": "El legado de nuntrien/Centos/Uzurion/AC-02/AC-02.md"
               }
             }
           },
@@ -137,7 +195,7 @@
             }
           },
           {
-            "id": "1a684166b81e4f07",
+            "id": "88656c07367cee0a",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -146,20 +204,6 @@
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "984901b2449a87df",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "db24a74f6e55c761",
-            "type": "leaf",
-            "state": {
-              "type": "fantasy-statblocks-creature-pane",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -174,36 +218,41 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "obsidian-5e-statblocks:Open Creature pane": false
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "1790c0501fb7ce81",
+  "active": "97dce8119dbe6567",
   "lastOpenFiles": [
-    "Sesion 4.md",
-    "Sesion 3 - 19_4_24.md",
-    "El legado de nuntrien/Centos/Uzurion/Black Forest/Bandit Camp.md",
+    "Templates/Hunt Template.md",
+    "El legado de nuntrien/Centos/Uzurion/AC-02/AC-02.md",
     "El legado de nuntrien/Centos/Uzurion/AC-02/Jack'O Tabern/Teztrian.md",
+    "El legado de nuntrien/Centos/Uzurion/AC-02/Market/Market.md",
+    "Sesion 4.md",
     "Images/city maps/ac-02.png",
-    "PDFS/(Ghostfire Gaming) Grim Hollow The Monster Grimoire.pdf",
+    "Monsters/Oblivion Leaper.md",
+    "Images/Monsters/Oblivion Leaper.webp",
+    "Barracas de Agua.md",
+    "Sesion 3 - 19_4_24.md",
+    "PDFS/Grim Hollow The Monster Grimoire.pdf",
+    "PDFS/Waterdeep Dragon Heist.pdf",
+    "Images/Structures/mage_store.jpg",
+    "Images/Monsters",
+    "Images/world_map_empty.jpeg",
+    "El legado de nuntrien/Centos/Uzurion/Black Forest/Bandit Camp.md",
     "Untitled.md",
     "El legado de nuntrien/Centos/Uzurion/AC-02/Jack'O Tabern/Jack'O Tabern.md",
-    "El legado de nuntrien/Centos/Uzurion/AC-02/AC-02.md",
     "El legado de nuntrien/Centos/Uzurion/Uzurion.md",
     "El legado de nuntrien/Centos/Centos.md",
     "El legado de nuntrien/El legado de nuntrien.md",
-    "Monsters/Oblivion Leaper.md",
     "Monsters",
-    "El legado de nuntrien/Centos/Uzurion/AC-02/Market/Market.md",
-    "Images/world_map_empty.jpeg",
     "Ideas/Main quest William.md",
     "El legado de nuntrien/Introduccion.md",
     "How To/Monster Hunts.md",
     "Images/city maps/basxera-wound-of-the-desert-city-map.webp",
     "Images/city maps/dwarf-mining-city.webp",
     "Images/city maps/Nuncity.webp",
-    "Images/Structures/mage_store.jpg",
-    "Templates/Hunt Template.md",
     "Ideas/The pocket space.md",
     "Templates",
     "How To",
@@ -219,10 +268,6 @@
     "PDFS/DaggerHearth/GM Materials/DH v1-2 Play Guide.pdf",
     "PDFS/DaggerHearth/GM Materials/DH v1-2 Character Creation.pdf",
     "PDFS/DaggerHearth/GM Materials/_GMs_START_HERE.pdf",
-    "PDFS/DaggerHearth/GM Materials/Campaign Maps/DH v1-2 Campaign Map 02.pdf",
-    "PDFS/DaggerHearth/GM Materials/Campaign Maps/DH v1-2 Campaign Map 03.pdf",
-    "El legado de nuntrien/Centos/Uzurion/Black Forest/Black Forest.md",
-    "El legado de nuntrien/Centos/Uzurion/Maldiciones/Maldiciones.md",
     "Images/Structures/world map.jpg"
   ]
 }
