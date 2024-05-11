@@ -3,7 +3,7 @@ El campamento de Bandidos estaba habitado por 4 cultistas del dios aberrante [[C
 - jakien el aprendiz esta vivo, esperando el regreso de yamid para irse
 - Tasha la scout murio a manos del cazador
 - Yamid el mago murio a manos de Teztrian
-- Surkhan el ladron, sigue vivo intentando llevar a cabo la invocacion solo
+- [[Invocador|Surkhan]] el ladron, sigue vivo intentando llevar a cabo la invocacion solo
 ## Descripcion General
 Mientras se acercan al campamento por el acolchado suelo de pino divisan a travez de los arboles una carpa color marrón (survival check para que se den cuenta que es para que se camufle de los humanos y no de los anuimales), hay varios cofres y troncos de arboles repartidos como bancos para sentarse. 
 Todo esto cubierto por una tela en la altura que los proteje de la lluvia y las hojas desprendidas por los arboles. 

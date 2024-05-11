@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9643d3860a277870",
+        "id": "cf11edfe5758b79f",
         "type": "tabs",
         "children": [
           {
-            "id": "e389f29a86eb1332",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Monsters/Oblivion Leaper.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "97dce8119dbe6567",
+            "id": "dc2fe682ac61489e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,49 +20,17 @@
             }
           },
           {
-            "id": "286fd6c0a7590c94",
+            "id": "bd1eaceee8ee9f33",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "El legado de nuntrien/Centos/Uzurion/AC-02/Jack'O Tabern/Teztrian.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d3cdd6ed411054b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "El legado de nuntrien/Centos/Uzurion/AC-02/Market/Market.md",
-                "mode": "source",
-                "source": false
+                "file": "PDFS/Waterdeep Dragon Heist.pdf"
               }
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "9de8f3982848e5c4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b7c61ea90097e925",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Hunt Template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -120,8 +76,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -142,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "El legado de nuntrien/Centos/Uzurion/AC-02/AC-02.md",
+                "file": "PDFS/Waterdeep Dragon Heist.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "El legado de nuntrien/Centos/Uzurion/AC-02/AC-02.md",
+                "file": "PDFS/Waterdeep Dragon Heist.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "El legado de nuntrien/Centos/Uzurion/AC-02/AC-02.md"
+                "file": "PDFS/Waterdeep Dragon Heist.pdf"
               }
             }
           },
@@ -223,15 +178,24 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "97dce8119dbe6567",
+  "active": "bd1eaceee8ee9f33",
   "lastOpenFiles": [
-    "Templates/Hunt Template.md",
+    "Black Market.md",
     "El legado de nuntrien/Centos/Uzurion/AC-02/AC-02.md",
+    "Invocador.md",
+    "PDFS/Shop Catalog.pdf",
+    "Templates/Hunt Template.md",
     "El legado de nuntrien/Centos/Uzurion/AC-02/Jack'O Tabern/Teztrian.md",
+    "El legado de nuntrien/Centos/Uzurion/Black Forest/Bandit Camp.md",
+    "El legado de nuntrien/Centos/Uzurion/Uzurion.md",
+    "Corte Carmesi.md",
+    "Dungeon.md",
+    "El legado de nuntrien/Centos/Centos.md",
+    "Monsters/Oblivion Leaper.md",
+    "Ideas/The pocket space.md",
     "El legado de nuntrien/Centos/Uzurion/AC-02/Market/Market.md",
     "Sesion 4.md",
     "Images/city maps/ac-02.png",
-    "Monsters/Oblivion Leaper.md",
     "Images/Monsters/Oblivion Leaper.webp",
     "Barracas de Agua.md",
     "Sesion 3 - 19_4_24.md",
@@ -240,11 +204,8 @@
     "Images/Structures/mage_store.jpg",
     "Images/Monsters",
     "Images/world_map_empty.jpeg",
-    "El legado de nuntrien/Centos/Uzurion/Black Forest/Bandit Camp.md",
     "Untitled.md",
     "El legado de nuntrien/Centos/Uzurion/AC-02/Jack'O Tabern/Jack'O Tabern.md",
-    "El legado de nuntrien/Centos/Uzurion/Uzurion.md",
-    "El legado de nuntrien/Centos/Centos.md",
     "El legado de nuntrien/El legado de nuntrien.md",
     "Monsters",
     "Ideas/Main quest William.md",
@@ -253,21 +214,16 @@
     "Images/city maps/basxera-wound-of-the-desert-city-map.webp",
     "Images/city maps/dwarf-mining-city.webp",
     "Images/city maps/Nuncity.webp",
-    "Ideas/The pocket space.md",
     "Templates",
     "How To",
     "Ideas/The 4 magic weapons.md",
     "Ideas/Heroes.md",
     "Ideas/Culto Neirtnun.md",
     "El legado de nuntrien/Centos/Uzurion/Maldiciones/Vampirism.md",
-    "El legado de nuntrien/Centos/Uzurion/AC-02/Jack'O Tabern/Leia.md",
-    "El legado de nuntrien/Centos/Uzurion/Maldiciones/Tainting.md",
-    "El legado de nuntrien/Nuntrien.md",
     "Images/world map.jpg",
     "El legado de nuntrien/Centos",
     "PDFS/DaggerHearth/GM Materials/DH v1-2 Play Guide.pdf",
     "PDFS/DaggerHearth/GM Materials/DH v1-2 Character Creation.pdf",
-    "PDFS/DaggerHearth/GM Materials/_GMs_START_HERE.pdf",
     "Images/Structures/world map.jpg"
   ]
 }

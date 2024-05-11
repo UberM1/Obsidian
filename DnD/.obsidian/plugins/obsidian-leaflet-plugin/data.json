@@ -3,7 +3,7 @@
     {
       "id": "AC-02-MAP",
       "locked": false,
-      "lastAccessed": 1715197253570,
+      "lastAccessed": 1715386313843,
       "markers": [
         {
           "id": "ID_884849db08a8",
@@ -67,6 +67,23 @@
           "command": false,
           "percent": null,
           "description": "Pequeña Catedral",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_684a1b39fa89",
+          "type": "default",
+          "loc": [
+            -0.6692250669002533,
+            2.4587180124547743
+          ],
+          "link": "Untitled",
+          "layer": "%5B%5Bac-02.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
