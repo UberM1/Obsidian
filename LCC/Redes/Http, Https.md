@@ -15,3 +15,6 @@ La autenticación basica de `HTTP` se lleva a cabo con la siguiente metodologia:
 - El cliente usa `Base64` para codificar el Id y la password y se transmite al servidor en el header de `Autorization`.
 
 [^1]: Este header ademas de solicitar la autenticacion es como que tiene las pautas de como se va a llevar a cabo dicha autenticación
+
+# HTTPS
+Cuando alguien se conecta ocurre un intercambio de claves, pública y privada para que estos puedan tener un canal de comunicación cifrado.

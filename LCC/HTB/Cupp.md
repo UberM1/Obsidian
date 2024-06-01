@@ -1,0 +1,1 @@
+**Common User Password Profiler**, *Cupp* es un programa sencillo escrito en [[python]] que genera [[Dictionary Attacks#Personalized Wordlists|wordlists]] para [[Passwords]] o users.

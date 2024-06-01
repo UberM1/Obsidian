@@ -1,2 +1,2 @@
-Un entorno de  Acceso No-Uniforme a Memoria (Non-
-Uniform Memory Access) es un entorno donde cada procesador tiene afinidad con bancos de memoria muy específicos, para evitar que los diferentes [[procesadores]] estén esperando al mismo tiempo al bus compartido de memoria, cada uno tiene acceso exclusivo a su area. están en un punto intermedio entre el procesamiento de computo simétrico y el distribuido.
+Un entorno de Acceso No-Uniforme a Memoria (Non-
+Uniform Memory Access) es un entorno donde cada procesador tiene afinidad con nodos de memoria muy específicos, estos nodos a su vez se dividen en bancos, para evitar que los diferentes [[procesadores]] estén esperando al mismo tiempo al bus compartido de memoria, cada uno tiene un bus especial exclusivo a su area. Están en un punto intermedio entre el procesamiento de computo simétrico y el distribuido.

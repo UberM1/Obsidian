@@ -12,7 +12,7 @@ Es muy usada por sysadmins & IT security specialiists, sirve para:
 - Chequea distontos posibles tipos de coneccion.
 - Network mapping(mapa de la red).
 - Analiza respuestas de los hosts en la red.
-- Identifica [[puerto]]s abiertos.
+- Identifica [[Puerto]]s abiertos.
 - Evalúa vulnerabilidades.
 # Arquitectura de Nmap
 Nmap tiene distintos tipos de escaneos que se pueden hacer sobre una red:

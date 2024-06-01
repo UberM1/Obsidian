@@ -1,10 +1,14 @@
 
 %% Begin Waypoint %%
+- [[DNS]]
+- [[File Transfer Protocol (FTP)]]
 - [[firewall]]
 - [[Http, Https]]
 - [[IDS-IPS]]
 - [[nc]]
 - [[paquete]]
+- [[Puerto]]
+- [[ssh]]
 - [[tcpdump]]
 
 %% End Waypoint %%

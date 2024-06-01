@@ -1,0 +1,1 @@
+Conecta con la [[Dungeon]], el black market a fecha de la [[Sesion 4 - 11_5_24]] recien comienza a formarse, 

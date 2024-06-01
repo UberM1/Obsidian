@@ -1,9 +1,9 @@
+```statblock
 layout: Basic 5e Layout
 image: "[[Algernon Thornebrooke.webp]]"
-creature: Algernon Thornebrooke
 name: Algernon Thornebrooke
 ac: 14
-hp: 6d10+6
+hp: 6d10 + 6
 cr: 1
 size: Large
 stats: [17, 11, 13, 1, 13, 6]
@@ -24,3 +24,4 @@ actions:
   - name: Acid Spray (Recharge 6)
     desc: "_Range Weapon Attack:_ The ankheg spits acid in a line that is 30 feet long and 5 feet wide, provided that it has no creature grappled. Each creature in that line must make a DC 13 Dexterity saving throw, taking 10 (3d6) acid damage on a failed save, or half as much damage on a successful one."
 
+```

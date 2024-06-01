@@ -26,6 +26,7 @@ hydra -h | grep "Supported services" | tr ":" "\n" | tr " " "\n" | column -e
 los mas importantes son:
 1. `http[s]-{head|get|post}`: para HTTP basic
 2. `http[s]-post-form`: para forms `.php` o `.aspx`
+3. `service://SERVER_IP:PORT` para [[ssh]] es muy importante usar `-t 4` que es el limite de conecciones.
 
 > Por lo general nos podemos dar cuenta si es un loguin de post o de get mirando si los parametros se pasan por la url.
 

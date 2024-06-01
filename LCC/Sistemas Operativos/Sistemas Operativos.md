@@ -1,6 +1,7 @@
 %% Begin Waypoint %%
 - **Apuntes**
 
+- [[Concurrencia]]
 - [[Hilos]]
 - **Libros**
 
@@ -10,11 +11,13 @@
 - [[NUMA]]
 - **[[Planificación]]**
 	- [[Planificación a Corto Plazo]]
+- [[Planificación en tiempo real]]
 - [[Procesadores]]
 - [[Proceso]]
 - [[Programa]]
 - [[Señales]]
 - [[Sistema Operativo]]
+- [[Sistemas Batch]]
 - [[Task]]
 
 %% End Waypoint %%

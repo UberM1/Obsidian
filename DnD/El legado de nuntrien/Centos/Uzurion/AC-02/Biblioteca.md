@@ -1,0 +1,2 @@
+
+La biblioteca da la impresión desde un inicio de ser un lugar arcaico. Se encuentra lleno hasta el techo con estanterías de madera oscura y libros polvorientos. El lugar se encuentra casi vacio, solo unas pocas personas pasean entre los pasillos en busca de conocimiento. Al moverse en el lugar, pueden sentir que la vista inquisidora de la [[Agatha García|bibliotecaria]] los sigue a donde vayan.

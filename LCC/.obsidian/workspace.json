@@ -4,22 +4,79 @@
     "type": "split",
     "children": [
       {
-        "id": "ed47b5ded27b3d21",
+        "id": "7961a02455044f22",
         "type": "tabs",
         "children": [
           {
-            "id": "ecbb70e0fa458bc0",
+            "id": "d2b89d862286fe57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas Operativos/NachOS.md",
+                "file": "HTB/Hashcat.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4abd140389e0b456",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTB/Dictionary Attacks.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "517db146de13e436",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTB/Cupp.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "f750b5adc57ad9ae",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "eb78ed6bb2ff9f0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemas Operativos/NUMA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ea7810b19d97d9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTB/Encriptado.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -31,6 +88,7 @@
       {
         "id": "7526406559c953d5",
         "type": "tabs",
+        "dimension": 66.48148148148148,
         "children": [
           {
             "id": "7e1a2d5c9acd3ddc",
@@ -48,7 +106,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "real ",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,11 +123,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "0e7524ded4d579dd",
         "type": "tabs",
+        "dimension": 33.51851851851852,
         "children": [
           {
             "id": "e9ebb2500332dce0",
@@ -77,7 +137,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Sistemas Operativos/NachOS.md",
+                "file": "HTB/Dictionary Attacks.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas Operativos/NachOS.md",
+                "file": "HTB/Dictionary Attacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemas Operativos/NachOS.md",
+                "file": "HTB/Dictionary Attacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemas Operativos/NachOS.md"
+                "file": "HTB/Dictionary Attacks.md"
               }
             }
           },
@@ -208,37 +268,40 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ecbb70e0fa458bc0",
+  "active": "4abd140389e0b456",
   "lastOpenFiles": [
-    "Sistemas Operativos/Apuntes/senales.pdf",
-    "Sistemas Operativos/Señales.md",
-    "Estructuras II/Razonando con Programas.md",
-    "Inducción.md",
-    "Estructuras II/Arboles.md",
-    "Estructuras II/Libros/okasaki.pdf",
-    "Estructuras II/Tipos Abstractos de Datos.md",
-    "Estructuras II/Estructuras II.md",
-    "Sistemas Operativos/NachOS.md",
-    "Sistemas Operativos/Libros/Fundamentos de los sistemas operativos.pdf",
-    "Sistemas Operativos/Planificación/Planificación.md",
-    "Excalidraw/Drawing 2024-05-07 09.11.54.excalidraw.md",
-    "Sistemas Operativos/Sistema Operativo.md",
-    "Sistemas Operativos/Sistemas Operativos.md",
-    "Procesos.md",
-    "Sistemas Operativos/Procesadores.md",
-    "2024-05-05.md",
-    "Sistemas Operativos/Planificación/Planificación a Corto Plazo.md",
-    "Sistemas Operativos/Apuntes/linux_scheduler.pdf",
-    "Sistemas Operativos/Hilos.md",
-    "Sistemas Operativos/Proceso.md",
-    "Sistemas Operativos/Task.md",
-    "Planificación en tiempo real.md",
-    "Untitled 1.md",
-    "procesador.md",
-    "HTB/Hydra.md",
-    "Untitled.md",
+    "HTB/Cupp.md",
+    "HTB/Hashcat.md",
+    "Keyword-walk.md",
+    "HTB/Passwords.md",
+    "CeWL.md",
+    "Sistemas Operativos/Memoria.md",
+    "HTB/Dictionary Attacks.md",
+    "Crunch.md",
     "HTB/Brute Forcing.md",
-    "Passwords.md",
+    "Sistemas De archivos.md",
+    "Sistemas Operativos/NUMA.md",
+    "HTB/Encriptado.md",
+    "Linux/Pacman.md",
+    "Sistemas Operativos/Apuntes/linuxvm.pdf",
+    "pack.md",
+    "Estructuras II/Tipos Abstractos de Datos.md",
+    "Sistemas Operativos/Libros/Fundamentos de los sistemas operativos.pdf",
+    "Sistemas Operativos/NachOS.md",
+    "HTB/Hashing.md",
+    "Redes/Http, Https.md",
+    "HTB/Enumeracion.md",
+    "HTB/Fuzzing.md",
+    "HTB/Hydra.md",
+    "HTB/Nmap.md",
+    "lua.md",
+    "Idea tesis.md",
+    "Redes/File Transfer Protocol (FTP).md",
+    "Linux",
+    "Sistemas Operativos/Concurrencia.md",
+    "Sistemas Operativos/Apuntes/senales.pdf",
+    "Estructuras II/Libros/okasaki.pdf",
+    "Sistemas Operativos/Apuntes/linux_scheduler.pdf",
     "Sistemas Operativos/Planificación",
     "Pasted image 20240502173636.png",
     "Pasted image 20240502173051.png",
@@ -250,8 +313,6 @@
     "Estructuras II/Libros",
     "Sistemas Operativos/Libros/Andrew S. Tanenbaum - Operating Systems. Design and Implementation.pdf",
     "Sistemas Operativos/Apuntes/virtualizacion.pdf",
-    "Sistemas Operativos/Libros/OSTEP.txt",
-    "Sistemas Operativos/Libros",
     "Fotos/Pasted image 20240414183031.png",
     "Fotos/Pasted image 20240414182323.png",
     "Fotos/wfuzz.svg"

@@ -1,1 +1,2 @@
-Hacer un cambio de topologia dinamico entre router y servicios principales como un DNS o un servidor ftp, de forma que el [[firewall]] y un router tengan sincronizaciones estilo OTP y que los elementos de la DMZ cambien de ip dinamicamente, acompañado de un cambio dinamico tambien de las reglas del firewall del router.
+~~hacer un cambio de topologia dinamico entre router y servicios principales como un DNS o un servidor ftp, de forma que el [[firewall]] y un router tengan sincronizaciones estilo OTP y que los elementos de la DMZ cambien de ip dinamicamente, acompañado de un cambio dinamico tambien de las reglas del firewall del router.~~
+Ya existe para ipv4, DHCP.

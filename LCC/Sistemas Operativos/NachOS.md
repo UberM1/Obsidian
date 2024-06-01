@@ -11,3 +11,5 @@ plancha 3
 	- el puntero de argumentos es un array que arranca con null y termina con null. 
 	- Cuando se copia al stack hay que dejar un hueco, comentario de CAUTION en args.hh
 
+# start.s
+hay codigo para las syscalls, este codigo se repite en todos los procesos, Este codigo compartido mediante [[Memoria#Memoria compartida|shared_memory]]

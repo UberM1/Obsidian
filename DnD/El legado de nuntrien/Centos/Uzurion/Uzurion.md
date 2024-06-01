@@ -34,6 +34,8 @@ La AC mas poblada es la AC-02, donde se encuentra actualmente el grueso de la po
 %% Begin Waypoint %%
 - **[[AC-02]]**
 - **[[Black Forest]]**
+- [[Dungeon]]
 - **[[Maldiciones]]**
+- [[Thorne Village]]
 
 %% End Waypoint %%

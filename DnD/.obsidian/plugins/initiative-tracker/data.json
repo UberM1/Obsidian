@@ -88,7 +88,7 @@
   "version": [
     13,
     0,
-    10
+    11
   ],
   "canUseDiceRoll": false,
   "preferStatblockLink": false,
@@ -98,7 +98,48 @@
   "playerMarker": "default",
   "monsterMarker": "default",
   "state": {
-    "creatures": [],
+    "creatures": [
+      {
+        "name": "Algernon Thornebrooke",
+        "initiative": 19,
+        "static": false,
+        "modifier": 0,
+        "hp": 49,
+        "currentMaxHP": 49,
+        "cr": 1,
+        "ac": 14,
+        "currentAC": 14,
+        "id": "ID_099ba888b86a",
+        "currentHP": 49,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Giant Spider",
+        "display": "Gigant Spider",
+        "initiative": 18,
+        "static": false,
+        "modifier": 3,
+        "hp": 26,
+        "currentMaxHP": 26,
+        "cr": 1,
+        "ac": 14,
+        "currentAC": 14,
+        "id": "ID_8bab29c88aea",
+        "currentHP": 26,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "4d10 + 4"
+      }
+    ],
     "state": false,
     "name": null,
     "round": 1,

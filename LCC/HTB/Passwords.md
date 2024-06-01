@@ -14,7 +14,7 @@ Las contraseñas por lo general se guardan hasheadas, en los SO por lo general g
 - shadow.bak
 - password
 ## Cracking
-Como no se puede revertir el hash de una contraseña lo que se hace es hashear palabras aleatorias hasta que los hashes coinciden.
+Como no se puede revertir el hash de una contraseña lo que se hace es hashear palabras aleatorias hasta que los hashes coinciden, [[PrinceProcessor]].
 
 ### Tipos de Ataques
 Como de [[Dictionary Attacks]], [[Brute Forcing]], Intercepcion de Trafico, Man in the Middle, Key Logging, Social Engieneering.

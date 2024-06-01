@@ -33,6 +33,8 @@ Los tads se generan con operaciones de tads (if then else funciones) y variables
 
 Los tads permiten que los detalles de implementacion esten ocultos, el beneficio que trae es que se pueden realizar modificaciones a las implementaciones sin que los programas que utilizen el modelo de los tads se vean afectados
 # Modelos
+## secuencias
+- **subsecuencia contigua**: subsecuencia de s donde todos sus elementos aparecen en s y son contiguos. 
 
 
   

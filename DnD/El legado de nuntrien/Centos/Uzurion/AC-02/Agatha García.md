@@ -1,0 +1,2 @@
+
+La Sra. Agatha es una anciana de aspecto frágil, encorvada por el peso de los años y los libros que carga. Su cabello plateado está recogido en un moño apretado, y sus arrugadas manos sostienen constantemente un pesado libro, mientras lo va leyendo a travéz de un par de anteojos negros apoyados sobre la punta de su nariz. Sus ojos son pequeños y penetrantes, y su expresión parece estar perpetuamente ensombrecida por el ceño fruncido que adorna su rostro.

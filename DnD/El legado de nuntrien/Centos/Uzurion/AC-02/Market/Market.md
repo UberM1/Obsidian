@@ -3,7 +3,7 @@ El market esta ubicado cerca de la entrada norte de la ciudad es la zona marcada
 en esta ciudad se pueden enontrar tiendas de los siguientes ambitos: 
 %% Begin Waypoint %%
 - **[[Mage Store]]**
-
 %% End Waypoint %%
+- **[[Grimbolt Muriado|La forja de maravillas de Grimbolt]]**
 
  

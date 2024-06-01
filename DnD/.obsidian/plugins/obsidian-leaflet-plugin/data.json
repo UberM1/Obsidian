@@ -3,7 +3,7 @@
     {
       "id": "AC-02-MAP",
       "locked": false,
-      "lastAccessed": 1715386313843,
+      "lastAccessed": 1717196833907,
       "markers": [
         {
           "id": "ID_884849db08a8",
@@ -43,13 +43,16 @@
           "id": "ID_2babe87aba59",
           "type": "default",
           "loc": [
-            -1.336161494255066,
-            2.0918069183826447
+            -1.3313803672790527,
+            2.1080727577209473
           ],
           "layer": "%5B%5Bac-02.png%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.6745832824707031,
+            0.6021791060484761
+          ],
           "description": "Market",
           "minZoom": null,
           "maxZoom": null,
@@ -78,7 +81,72 @@
             -0.6692250669002533,
             2.4587180124547743
           ],
-          "link": "Untitled",
+          "link": "Black Market",
+          "layer": "%5B%5Bac-02.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Entrada 1\n",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b84b891bab6b",
+          "type": "default",
+          "loc": [
+            -1.7346038818359375,
+            3.0385947227478027
+          ],
+          "layer": "%5B%5Bac-02.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c88b99abead8",
+          "type": "default",
+          "loc": [
+            -1.7346038818359375,
+            3.0385947227478027
+          ],
+          "layer": "%5B%5Bac-02.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Cabaña Cazador",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d879caeafaea",
+          "type": "default",
+          "loc": [
+            -1.1655935049057007,
+            2.677592158317566
+          ],
+          "layer": "%5B%5Bac-02.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Biblioteca",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1ba80b393a39",
+          "type": "default",
+          "loc": [
+            -0.789296567440033,
+            1.0571062377550429
+          ],
+          "link": "Sacrificial house",
           "layer": "%5B%5Bac-02.png%5D%5D",
           "mutable": true,
           "command": false,
