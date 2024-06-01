@@ -17,10 +17,13 @@ La ultima parte la tiene el spawn de [[Teztrian]].
 # Como funciona:
 Es un prototipo antiguo de portal, esta formado por tres partes, una hueca de oro que hay que inbuir con magia natural, otra de plata que hay que imbuir con magia oscura y el ultimo que hay que llenarlo con chele
 
+# Layout
+el layout es el de la [[Waterdeep Dragon Heist.pdf#page=224|Tollskull manor]] de waterdeep, hay un npc fantasma, se pueden ver sus acciones en [[Waterdeep Dragon Heist.pdf#page=31|la pagina 32]]
+
+
 ---
 # Cosas a definir:
 - Como se les va a otorgar el item.
-- Layout de este lugar.
 - Definir bien las limitaciones del portal que van a abrir para transladarse allí.
 
 ---

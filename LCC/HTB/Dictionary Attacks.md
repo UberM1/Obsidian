@@ -15,3 +15,10 @@ La ventaja es que los diccionarios se construyen a partir de contraseñas comune
 # Login Brute Forcing
 La idea en la gran parte de los ataques de diccionario es intentar saber un user que exista e iterar passwords desde ahi, sino se van a tener que iterar sobre todas las combinaciones y esto es muy costoso.
 Usar passwords default implica probar sobre pares de usuario y contraseña que comúnmente van de la mano, por lo general en ataques de este tipo conviene comenzar con estos. Una herramienta comun para esto es [[Hydra]].
+
+# Personalized Wordlists
+Se utiliza información del usuario que es el target para crear listas de palabras específicas que usar en ataques de fuerza bruta. Una herramienta común para esto es [[Cupp]], [[rsmangler]] o [[The Mentalist]].
+
+En específico para usuarios podemos utilizar herramientas como [[username-anarchy]]. 
+
+Hay que tener en cuenta que algunos servicios piden requisitos minimos para las contraseñas, y como no queremos perder tiempo en contraseñas que no van a tener efecto entonces podemos usar algunos scripts de [[Bash]] para poder filtrar estas contraseñas de nuestra wordlist.

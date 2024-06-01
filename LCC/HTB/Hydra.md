@@ -17,6 +17,7 @@ hydra -C /opt/useful/SecLists/Passwords/Default-Credentials/ftp-betterdefaultpas
 `-u` prueba todos los users por cada password, por defecto es al revez.
 `-h` Muestra el help
 `<module_name> -U` nos provee info de como se utiliza cada modulo.
+`-t <number>` Sirve para limitar el maximo de tasks que se envian simultanemente, es muy importante para el uso de **SSH**. Que tiene un maximo de conecciones simultaneas de 4. 
 
 con el siguiente comando podemos ver los servicios sobre los cuales hydra puede configurarse para hacer brute forcinig:
 ```shell
@@ -27,6 +28,8 @@ los mas importantes son:
 1. `http[s]-{head|get|post}`: para HTTP basic
 2. `http[s]-post-form`: para forms `.php` o `.aspx`
 3. `service://SERVER_IP:PORT` para [[ssh]] es muy importante usar `-t 4` que es el limite de conecciones.
+3. `ssh` para conecciones [[ssh]], `ssh://<SERVER_IP>:<PORT>`*(comando idem [[File Transfer Protocol (FTP)|FTP]])*
+
 
 > Por lo general nos podemos dar cuenta si es un loguin de post o de get mirando si los parametros se pasan por la url.
 
